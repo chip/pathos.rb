@@ -1,0 +1,13 @@
+
+  HELP LEGEND
+  -----------
+  • ↑/k up
+  • ↓/j down
+  • o add path (below selected path)
+  • O add path (above selected path)
+  • x remove current path
+  • X remove non-existent paths
+  • D remove duplicate paths
+  • S save
+  • q quit
+
