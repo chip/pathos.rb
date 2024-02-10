@@ -11,7 +11,7 @@ environment variable. Hopefully, others will find this to be useful.
 
 ## Demo
 
-![pathos.rb DEMO](demo.gif "pathos.rb DEMO")
+![pathos.rb DEMO](./assets/demo.gif "pathos.rb DEMO")
 
 ### Built with the following:
 
