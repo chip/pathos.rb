@@ -36,7 +36,7 @@ revised `export $PATH` statement that is written to `$HOME/.pathos.env`.
 To use the new PATH, `$HOME/.pathos.env` **MUST BE SOURCED** to take effect
 within your shell.
 
-    source $HOME/pathos.env
+    source $HOME/.pathos.env
 
 ## Navigation / Commands
 
