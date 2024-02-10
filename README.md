@@ -11,7 +11,7 @@ environment variable. Hopefully, others will find this to be useful.
 
 ## Demo
 
-![pathos DEMO](assets/demo.gif "pathos.rb DEMO")
+[![asciicast](https://asciinema.org/a/KwkO67bnpbH6GGLzVdLR8SNIG.svg)](https://asciinema.org/a/KwkO67bnpbH6GGLzVdLR8SNIG)
 
 ### Built with the following:
 
@@ -19,10 +19,13 @@ environment variable. Hopefully, others will find this to be useful.
   * [TTY Tookkit](https://github.com/piotrmurach/tty)
 
 ## Installation
-  1. Clone repo.
-  2. Change to repo directory (*Assuming /Users/code/pathos.rb*):
-    cd /Users/code/pathos.rb
-  3. Run pathos.rb:
+  1. Clone repo
+  2. Change to repo directory (*Assuming repo was downloaded to ~/Downloads/pathos.rb on MacOS*)
+
+    cd ~/Downloads/pathos.rb
+
+  3. Run it
+
     ruby pathos.rb
 
 ## IMPORTANT
@@ -41,15 +44,14 @@ Key | Description
 ----|---
 ↑/k | up
 ↓/j | down
-o   | add path (below current selected path)*
-O   | add path (above current selected path)*
+o   | add path (below current selected path) [[1]](#color-highlighting)
+O   | add path (above current selected path) [[1]](#color-highlighting)
 x   | remove current path
 X   | remove non-existent paths
 D   | remove duplicate paths
 S   | save
 q   | quit
 
-* *The current selected path is highlighted in Yellow*
 
 ## Color Highlighting
 
