@@ -11,7 +11,7 @@ environment variable. Hopefully, others will find this to be useful.
 
 ## Demo
 
-[![asciicast](https://asciinema.org/a/KwkO67bnpbH6GGLzVdLR8SNIG.svg)](https://asciinema.org/a/KwkO67bnpbH6GGLzVdLR8SNIG)
+![pathos.rb DEMO](demo.gif "pathos.rb DEMO")
 
 ### Built with the following:
 
